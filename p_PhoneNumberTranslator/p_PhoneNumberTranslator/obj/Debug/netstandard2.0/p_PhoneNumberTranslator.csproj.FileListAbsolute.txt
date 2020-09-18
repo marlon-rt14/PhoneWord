@@ -1,0 +1,13 @@
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\bin\Debug\netstandard2.0\p_PhoneNumberTranslator.deps.json
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\bin\Debug\netstandard2.0\p_PhoneNumberTranslator.dll
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\bin\Debug\netstandard2.0\ref\p_PhoneNumberTranslator.dll
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\bin\Debug\netstandard2.0\p_PhoneNumberTranslator.pdb
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\p_PhoneNumberTranslator.csprojAssemblyReference.cache
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\p_PhoneNumberTranslator.AssemblyInfoInputs.cache
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\p_PhoneNumberTranslator.AssemblyInfo.cs
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\p_PhoneNumberTranslator.csproj.CoreCompileInputs.cache
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\p_PhoneNumberTranslator.dll
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\ref\p_PhoneNumberTranslator.dll
+C:\Users\mjavi\source\repos\p_PhoneNumberTranslator\p_PhoneNumberTranslator\p_PhoneNumberTranslator\obj\Debug\netstandard2.0\p_PhoneNumberTranslator.pdb
